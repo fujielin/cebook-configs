@@ -9,7 +9,7 @@ spring:
   application:
     name: crbook-book
   datasource:
-    driver-class-name: com.yc.jdbc.Driver
+    driver-class-name: com.yc.cj.jdbc.Driver
     url: jdbc:mysql://127.0.0.1/crbook
     username: root
     password: root
